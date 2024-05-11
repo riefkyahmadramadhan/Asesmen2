@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyQuotes</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="tambah_error">Belum bisa tambah catatan</string>
+    <string name="judul">Judul</string>
+    <string name="quotes">Quotes</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_buku">Ubah Buku</string>
+    <string name="kelas01">D3IF-46-01</string>
+    <string name="kelas02">D3IF-46-02</string>
+    <string name="kelas03">D3IF-46-03</string>
+    <string name="kelas04">D3IF-46-04</string>
+    <string name="kelas05">D3IF-46-05</string>
+    <string name="invalid">Judul dan Quotes tidak boleh kosong</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus buku</string>
+    <string name="pesan_hapus">Apakah Anda yakin ingin menghapus buku ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
